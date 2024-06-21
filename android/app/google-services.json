@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "880057154130",
+    "project_id": "flutterfire-ui-11bda",
+    "storage_bucket": "flutterfire-ui-11bda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880057154130:android:07c0ebcc0eb386583dbd8b",
+        "android_client_info": {
+          "package_name": "com.example.authfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpvhbrbKPv4DL_xgPzGsnGE8giKe0Sm1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
